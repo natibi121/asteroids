@@ -1,0 +1,3 @@
+Győződj meg róla, hogy a virtuális környezeted aktiválva van a játék futtatásakor vagy a bootdev CLI használatakor.
+
+source .venv/bin/activate
